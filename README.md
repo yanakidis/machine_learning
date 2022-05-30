@@ -12,6 +12,17 @@ Here you can find some works related to machine learning
 
 **task_3.ipynb** - linear SVM, logistic regression, categorical features and calibration curves
 
+**matrix_calculus** - matrix calculations and matrix differentiation
+
 **task_4.ipynb** - bias-variance decomposition and gradient boosting
 
-**matrix_calculus** - matrix calculations and matrix differentiation
+**task_5.ipynb** - SVM, kernel approximation: random fourier features 
+
+**task_6.ipynb** - unsupervised learning: clustering geographical and text data
+
+**task_7** - EM algorithm: Generative model of Labels, Abilities, and Difficulties (GLAD) and word alignment
+
+**task_8.ipynb** - metric learning and imbalanced tasks
+
+
+
