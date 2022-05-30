@@ -12,4 +12,4 @@ Here you can find some works related to machine learning
 
 **task_3.ipynb** - linear SVM, logistic regression, categorical features and calibration curves
 
-**task_4.ipynb** - bias—variance decomposition and gradient boosting
+**task_4.ipynb** - bias-variance decomposition and gradient boosting
